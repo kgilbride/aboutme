@@ -1,3 +1,6 @@
+---
+title: Kyle Gilbride
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
