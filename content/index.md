@@ -4,19 +4,32 @@ title: Kyle Gilbride
 
 ## My mission and vision
 
-I build bridges between current state reality to future state outcomes for people and companies by (1) clarifying the problems to be solved, (2) creating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.
+My mission is to build bridges between current state reality to future state outcomes for people and companies by (1) clarifying the problems to be solved, (2) creating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.
 
 My vision is to ensure that (1) work is more purposeful and differentiated and (2) people are able to live lives of greater meaning and passion.
 
 ---
 
-## How my talents add value
+## What makes me different
 
-I bring a blend of operational, technological, strategic, and financial know-how. Most of the problems I'm drawn to don't fit neatly into a single function — and that's exactly where I do my best work.
+Many Revenue Operations leaders grow up inside Sales Ops or CRM administration. My path was different by design.
 
-Explore the clusters below or navigate the graph view to see how my strengths connect.
+Over my career, I’ve operated across investment banking, private equity, corporate strategy, corporate development, chief of staff roles, and revenue operations leadership. That breadth gives me a wider lens on how businesses actually scale.
 
-If you know of an interesting opportunity that may be a fit for my strengths, please feel free to drop me a line at kyle@kgilbride.com.
+I’ve worked across companies ranging from growth-stage startups to billion-dollar enterprises, spanning healthcare, workflow automation, collaboration software, and education technology. Across every environment, the pattern has been the same: align strategy, systems, people, and execution so growth becomes more predictable and scalable.
+
+What differentiates me is the ability to connect multiple layers of the business simultaneously:
+- Executive strategy and board-level thinking
+- GTM process design and operational rigor
+- Data analysis and financial modeling
+- Systems implementation and workflow automation
+- Cross-functional alignment and change management
+- AI-enabled operational leverage
+
+I'm equally comfortable building the business case in Excel, designing the operating model, implementing changes in systems, and leading the organizational adoption required to make the change stick.
+I bring both operator depth and pattern recognition from years of exposure to high-performing organizations, including companies backed by Insight Partners and leadership teams from organizations like athenahealth, Automation Anywhere, and Mural.
+And when a problem extends beyond my own expertise, I have a deep network of operators, executives, and specialists across my professional and academic ecosystems to draw from.
+The result is a style of RevOps leadership that is not narrowly functional. It is business-first, systems-oriented, analytical, and execution-focused.
 
 | Cluster | What it means |
 |---|---|
