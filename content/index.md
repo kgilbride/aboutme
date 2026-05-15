@@ -4,7 +4,7 @@ title: Kyle Gilbride
 
 ## My mission and vision
 
-My mission is to build bridges between current state reality to future state outcomes for people and companies by (1) clarifying the problems to be solved, (2) creating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.
+I build bridges between current state reality to future state outcomes for people and companies by (1) clarifying the problems to be solved, (2) creating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.
 
 My vision is to ensure that (1) work is more purposeful and differentiated and (2) people are able to live lives of greater meaning and passion.
 
@@ -14,11 +14,12 @@ My vision is to ensure that (1) work is more purposeful and differentiated and (
 
 Many Revenue Operations leaders grow up inside Sales Ops or CRM administration. My path was different by design.
 
-Over my career, I’ve operated across investment banking, private equity, corporate strategy, corporate development, chief of staff roles, and revenue operations leadership. That breadth gives me a wider lens on how businesses actually scale.
+Over my career, I've operated across investment banking, private equity, corporate strategy, corporate development, chief of staff roles, and revenue operations leadership. That breadth gives me a wider lens on how businesses actually scale.
 
-I’ve worked across companies ranging from growth-stage startups to billion-dollar enterprises, spanning healthcare, workflow automation, collaboration software, and education technology. Across every environment, the pattern has been the same: align strategy, systems, people, and execution so growth becomes more predictable and scalable.
+I've worked across companies ranging from growth-stage startups to billion-dollar enterprises, spanning healthcare, workflow automation, collaboration software, and education technology. Across every environment, the pattern has been the same: align strategy, systems, people, and execution so growth becomes more predictable and scalable.
 
 What differentiates me is the ability to connect multiple layers of the business simultaneously:
+
 - Executive strategy and board-level thinking
 - GTM process design and operational rigor
 - Data analysis and financial modeling
@@ -27,19 +28,33 @@ What differentiates me is the ability to connect multiple layers of the business
 - AI-enabled operational leverage
 
 I'm equally comfortable building the business case in Excel, designing the operating model, implementing changes in systems, and leading the organizational adoption required to make the change stick.
+
 I bring both operator depth and pattern recognition from years of exposure to high-performing organizations, including companies backed by Insight Partners and leadership teams from organizations like athenahealth, Automation Anywhere, and Mural.
+
 And when a problem extends beyond my own expertise, I have a deep network of operators, executives, and specialists across my professional and academic ecosystems to draw from.
+
 The result is a style of RevOps leadership that is not narrowly functional. It is business-first, systems-oriented, analytical, and execution-focused.
 
-| Cluster | What it means |
-|---|---|
-| [[Thinks in Systems]] | I find the structure in messy, ambiguous situations and make it legible |
-| [[Builds and Organizes]] | I create the infrastructure that lets teams execute |
-| [[Leads Through Logic]] | I earn alignment through rigor rather than authority |
-| [[Develops People and Teams]] | I build teams that outlast the immediate problem |
-| [[Enters New Domains Fast]] | I become credible in new contexts faster than most |
-| [[Builds Go-To-Market Motions]] | I design commercial systems that turn strategy into revenue |
-| [[Revenue Engine Builder]] | I transform fragmented commercial systems into aligned, high-performing engines |
+---
+
+## How I can help
+
+I bring a blend of operational, technological, strategic, and financial know-how. Most of the problems I'm drawn to don't fit neatly into a single function — and that's exactly where I do my best work.
+
+Explore the problem areas below or navigate the graph view to see how my strengths connect.
+
+If you know of an interesting opportunity that may be a fit for my strengths, please feel free to drop me a line at kyle@kgilbride.com.
+
+| Cluster | What it means | How I solve it |
+|---|---|---|
+| [[Forecasting-and-Visibility\|Forecasting & Visibility]] | Leadership can't trust the forecast — the CRO and CFO are looking at different numbers and no one can explain why | I build the data models, reporting cadence, and dashboard architecture that give leadership a single version of truth from pipeline through revenue |
+| [[GTM-Planning\|GTM Planning]] | Annual planning is a spreadsheet exercise that falls apart by Q2 — capacity, territory, quota, and comp aren't connected | I design planning cycles that connect every input into a coherent operating commitment the whole team executes against |
+| [[Cross-Functional-Alignment\|Cross-Functional Alignment]] | Sales, Finance, and CS are operating from different versions of the business — meetings produce debate, not decisions | I build the shared definitions, joint reviews, and operating cadences that get every function moving from the same picture |
+| [[Systems-and-Process-Design\|Systems & Process Design]] | The revenue process has gaps, workarounds, and tribal knowledge baked in — it works until it doesn't | I design the workflows that keep revenue moving cleanly from lead to renewal, built to scale as the business grows |
+| [[Comp-and-Incentive-Design\|Comp & Incentive Design]] | The comp plan is complex, inconsistent, and driving the wrong behaviors | I simplify and redesign compensation structures that align incentives to strategy across multiple roles and revenue models |
+| [[Analytical-Storytelling\|Analytical Storytelling]] | The data exists but no one can agree on what it means or what to do next | I turn complex data into clear narratives that earn alignment from boards, executives, and cross-functional teams |
+| [[Develops People and Teams]] | The team lacks the capability, structure, or development infrastructure to scale with the business | I hire for capability gaps, build cross-functional teams, and create the development infrastructure that multiplies talent over time |
+| [[Enters New Domains Fast]] | The business is entering a new market, segment, or function and needs someone who can build credibility and context quickly | I become operational in new domains faster than most — with documented playbooks across healthcare, enterprise automation, PLG SaaS, and early-stage environments |
 
 ---
 
@@ -71,10 +86,4 @@ The result is a style of RevOps leadership that is not narrowly functional. It i
 
 - I volunteer for the **Community Fund of Darien**, providing grants to local community organizations serving people who live in Stamford, Norwalk, and Darien, CT.
 - I provide business consulting services to New York City area non-profits through **Compass Pro Bono**.
-- I'm part of the **Wharton Alumni Career Expert (ACE)** program that connects students with alumni for networking and career advice.
-
----
-
-## Contact me
-
-I can be reached at kyle@kgilbride.com and on LinkedIn (https://www.linkedin.com/in/kyle-gilbride/).
+- I'm part of the **Wharton Alumni Career
