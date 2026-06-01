@@ -53,8 +53,8 @@ If you know of an interesting opportunity that may be a fit for my strengths, pl
 | [[Systems-and-Process-Design\|Systems & Process Design]] | The revenue process has gaps, workarounds, and tribal knowledge baked in — it works until it doesn't | I design the workflows that keep revenue moving cleanly from lead to renewal, built to scale as the business grows |
 | [[Comp-and-Incentive-Design\|Comp & Incentive Design]] | The comp plan is complex, inconsistent, and driving the wrong behaviors | I simplify and redesign compensation structures that align incentives to strategy across multiple roles and revenue models |
 | [[Analytical-Storytelling\|Analytical Storytelling]] | The data exists but no one can agree on what it means or what to do next | I turn complex data into clear narratives that earn alignment from boards, executives, and cross-functional teams |
-| [[Develops-People-and-Teams|Develops People and Teams]] | The team lacks the capability, structure, or development infrastructure to scale with the business | I hire for capability gaps, build cross-functional teams, and create the development infrastructure that multiplies talent over time |
-| [[Enters New Domains Fast|Enters New Domains Fast]] | The business is entering a new market, segment, or function and needs someone who can build credibility and context quickly | I become operational in new domains faster than most — with documented playbooks across healthcare, enterprise automation, PLG SaaS, and early-stage environments |
+| [[Develops-People-and-Teams]] | The team lacks the capability, structure, or development infrastructure to scale with the business | I hire for capability gaps, build cross-functional teams, and create the development infrastructure that multiplies talent over time |
+| [[Enters New Domains Fast]] | The business is entering a new market, segment, or function and needs someone who can build credibility and context quickly | I become operational in new domains faster than most — with documented playbooks across healthcare, enterprise automation, PLG SaaS, and early-stage environments |
 
 ---
 
