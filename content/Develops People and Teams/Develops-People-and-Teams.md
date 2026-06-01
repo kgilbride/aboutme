@@ -2,7 +2,7 @@
 type: cluster
 ---
 
-# Develops-People-and-Teams
+# Develops People and Teams
 
 I build teams that outlast the immediate problem — hiring deliberately, coaching intentionally, and creating conditions where people grow into more than they were when they arrived. I extend my impact through others.
 
