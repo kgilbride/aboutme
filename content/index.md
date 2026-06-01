@@ -4,7 +4,7 @@ title: Kyle Gilbride
 
 ## My mission and vision
 
-I build bridges between current state reality to future state outcomes for people and companies by (1) clarifying the problems to be solved, (2) creating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.
+My mission is to build bridges between current state reality to future state outcomes for people and companies by (1) clarifying the problems to be solved, (2) creating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.
 
 My vision is to ensure that (1) work is more purposeful and differentiated and (2) people are able to live lives of greater meaning and passion.
 
@@ -33,7 +33,7 @@ I bring both operator depth and pattern recognition from years of exposure to hi
 
 And when a problem extends beyond my own expertise, I have a deep network of operators, executives, and specialists across my professional and academic ecosystems to draw from.
 
-The result is a style of RevOps leadership that is not narrowly functional. It is business-first, systems-oriented, analytical, and execution-focused.
+The result is a style of leadership that is not narrowly functional. It is business-first, systems-oriented, analytical, and execution-focused.
 
 ---
 
@@ -45,7 +45,7 @@ Explore the problem areas below or navigate the graph view to see how my strengt
 
 If you know of an interesting opportunity that may be a fit for my strengths, please feel free to drop me a line at kyle@kgilbride.com.
 
-| Cluster | What it means | How I solve it |
+| Area | What it means | How I solve it |
 |---|---|---|
 | [[Forecasting-and-Visibility\|Forecasting & Visibility]] | Leadership can't trust the forecast — the CRO and CFO are looking at different numbers and no one can explain why | I build the data models, reporting cadence, and dashboard architecture that give leadership a single version of truth from pipeline through revenue |
 | [[GTM-Planning\|GTM Planning]] | Annual planning is a spreadsheet exercise that falls apart by Q2 — capacity, territory, quota, and comp aren't connected | I design planning cycles that connect every input into a coherent operating commitment the whole team executes against |
@@ -84,6 +84,6 @@ If you know of an interesting opportunity that may be a fit for my strengths, pl
 
 ## Causes
 
-- I volunteer for the **Community Fund of Darien**, providing grants to local community organizations serving people who live in Stamford, Norwalk, and Darien, CT.
-- I provide business consulting services to New York City area non-profits through **Compass Pro Bono**.
-- I'm part of the **Wharton Alumni Career
+- I volunteer for the **Community Fund of Darien**, providing grants to local community organizations serving people who live in Stamford, Norwalk, and Darien, CT (https://www.communityfunddarien.org/). 
+- I provide business consulting services to New York City area non-profits through **Compass Pro Bono** (https://compassprobono.org/new-york-city/).
+- I'm part of the **Wharton Alumni Career Experts (ACE)** program, providing MBA students career advice (https://mbacareers.wharton.upenn.edu/ace-program/).
