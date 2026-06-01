@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Revenue Engine Builder]]"
+area: "[[Systems-and-Process-Design]]"
 aliases: ["I redesign an entire operating model — roles, segmentation, and comp — from a single capacity insight"]
 public_name: "Operating Model Redesign"
 ---
@@ -9,4 +9,4 @@ public_name: "Operating Model Redesign"
 
 I connect a single analytical finding to a cascade of structural changes — roles, resource allocation, and incentives — that work together to produce a measurable outcome.
 
-[[Revenue Engine Builder]]
+[[Systems-and-Process-Design]]

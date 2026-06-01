@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Develops People and Teams]]"
+area: "[[Develops People and Teams]]"
 aliases: ["I extend my impact by maximizing the talents of people around me"]
 public_name: "Talent Multiplication"
 ---

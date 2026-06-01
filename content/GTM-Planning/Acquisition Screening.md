@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Thinks in Systems]]"
+area: "[[GTM-Planning]]"
 aliases: ["I build screening frameworks that narrow a large universe down to a board-ready shortlist"]
 public_name: "Acquisition Screening"
 ---
@@ -9,4 +9,4 @@ public_name: "Acquisition Screening"
 
 I bring analytical structure to open-ended strategic questions so that leadership can make a precise, informed decision instead of an overwhelming one.
 
-[[Thinks in Systems]]
+[[GTM-Planning]]

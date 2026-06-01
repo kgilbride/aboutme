@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Develops People and Teams]]"
+area: "[[Develops People and Teams]]"
 aliases: ["I create conditions where earlier-career team members grow into independent contributors"]
 public_name: "Growing Early-Career Talent"
 ---

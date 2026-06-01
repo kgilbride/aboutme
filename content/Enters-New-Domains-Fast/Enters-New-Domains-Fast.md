@@ -8,14 +8,14 @@ I become credible in new industries, business models, and functional contexts fa
 
 This cluster shows up at every career transition. The domain changes; the pattern of impact doesn't.
 
-## Strengths in this Cluster
+## Strengths in this Area
 
 - [[Healthcare Domain Entry]]
 - [[PLG SaaS Domain Entry]]
 - [[Early-Stage Domain Entry]]
 - [[Enterprise Automation Domain Entry]]
 
-## Related Clusters
+## Related Areas
 
-[[Thinks in Systems]] — transferable frameworks are what make fast domain entry possible
-[[Revenue Engine Builder]] — the full-stack capability travels across industries
+[[Systems-and-Process-Design]] — transferable frameworks are what make fast domain entry possible
+[[Forecasting-and-Visibility]] — the full-stack capability travels across industries

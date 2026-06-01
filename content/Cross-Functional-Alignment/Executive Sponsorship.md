@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Leads Through Logic]]"
+area: "[[Cross-Functional-Alignment]]"
 aliases: ["I build executive-level sponsorship before touching process or systems"]
 public_name: "Executive Sponsorship"
 ---
@@ -9,4 +9,4 @@ public_name: "Executive Sponsorship"
 
 I align leadership on methodology and scope before any execution begins — using that sponsorship as the foundation for cross-functional alignment and accountability that makes change stick.
 
-[[Leads Through Logic]]
+[[Cross-Functional-Alignment]]

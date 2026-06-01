@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Enters New Domains Fast]]"
+area: "[[Enters New Domains Fast]]"
 aliases: ["I walked into an early-stage startup mid-year and diagnosed and restructured the entire commercial model within months"]
 public_name: "Early-Stage Domain Entry"
 ---

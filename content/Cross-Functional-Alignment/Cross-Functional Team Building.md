@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Develops People and Teams]]"
+area: "[[Develops People and Teams]]"
 aliases: ["I form and lead cross-functional teams without direct authority to build something new"]
 public_name: "Cross-Functional Team Building"
 ---

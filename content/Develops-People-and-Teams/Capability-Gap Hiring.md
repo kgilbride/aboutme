@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Develops People and Teams]]"
+area: "[[Develops People and Teams]]"
 aliases: ["I hire for capability gap and develop people beyond their starting point"]
 public_name: "Capability-Gap Hiring"
 ---

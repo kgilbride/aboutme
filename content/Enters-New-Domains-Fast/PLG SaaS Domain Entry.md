@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Enters New Domains Fast]]"
+area: "[[Enters New Domains Fast]]"
 aliases: ["I walked into PLG SaaS with a strategy background and rebuilt the operational foundation from scratch"]
 public_name: "PLG SaaS Domain Entry"
 ---

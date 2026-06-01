@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Builds Go-To-Market Motions]]"
+area: "[[Comp-and-Incentive-Design]]"
 aliases: ["I design enablement models that change rep behavior at scale"]
 public_name: "Rep Behavior Change"
 ---
@@ -9,4 +9,4 @@ public_name: "Rep Behavior Change"
 
 I connect training and playbook design directly to tools and reporting infrastructure — so behavior change and measurement are aligned and adoption produces real results.
 
-[[Builds Go-To-Market Motions]]
+[[Comp-and-Incentive-Design]]

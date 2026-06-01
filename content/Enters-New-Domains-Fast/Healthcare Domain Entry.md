@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Enters New Domains Fast]]"
+area: "[[Enters New Domains Fast]]"
 aliases: ["I walked into enterprise healthcare with a finance background and reoriented a board-level strategic process"]
 public_name: "Healthcare Domain Entry"
 ---

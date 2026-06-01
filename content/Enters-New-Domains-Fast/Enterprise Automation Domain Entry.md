@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Enters New Domains Fast]]"
+area: "[[Enters New Domains Fast]]"
 aliases: ["I walked into enterprise automation with no prior vertical experience and ran a cross-functional revenue recovery program"]
 public_name: "Enterprise Automation Domain Entry"
 ---

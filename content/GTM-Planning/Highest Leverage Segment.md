@@ -1,6 +1,6 @@
 ---
 type: atomic
-cluster: "[[Thinks in Systems]]"
+area: "[[GTM-Planning]]"
 aliases: ["I use data to focus an initiative on the highest-leverage segment"]
 public_name: "Highest Leverage Segment"
 ---
@@ -9,4 +9,4 @@ public_name: "Highest Leverage Segment"
 
 I avoid the trap of boiling the ocean by identifying exactly where targeted effort will produce the most measurable impact. Precision is the difference between a program that moves the needle and one that exhausts the team.
 
-[[Thinks in Systems]]
+[[GTM-Planning]]
