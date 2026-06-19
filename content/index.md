@@ -82,8 +82,9 @@ If you know of an interesting opportunity that may be a fit for my strengths, pl
 
 ---
 
-## Causes
+## Community & Causes
 
+- I'm an active member of the **GTM Council**, a community of practice for GTM operators who are leading the change for how AI rewires GTM motions (https://www.gtmcouncil.com/).
+- I'm part of the **Wharton Alumni Career Experts (ACE)** program, providing MBA students career advice (https://mbacareers.wharton.upenn.edu/ace-program/).
 - I volunteer for the **Community Fund of Darien**, providing grants to local community organizations serving people who live in Stamford, Norwalk, and Darien, CT (https://www.communityfunddarien.org/). 
 - I provide business consulting services to New York City area non-profits through **Compass Pro Bono** (https://compassprobono.org/new-york-city/).
-- I'm part of the **Wharton Alumni Career Experts (ACE)** program, providing MBA students career advice (https://mbacareers.wharton.upenn.edu/ace-program/).
