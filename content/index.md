@@ -4,9 +4,9 @@ title: Kyle Gilbride
 
 ## My mission and vision
 
-My mission is to build bridges between current state reality to future state outcomes for people and companies by (1) clarifying the problems to be solved, (2) creating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.
+My mission is to help GTM operators and B2B companies with at least 30 employees and >$30M in revenue connect the dots across finance, GTM operations, and AI deployment, resulting in higher revenue, lower costs, and better customer experience. I do this by (1) clarifying the problems to be solved, (2) creating durable operating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.  
 
-My vision is to ensure that (1) work is more purposeful and differentiated and (2) people are able to live lives of greater meaning and passion.
+If my work reaches scale, the world will be different because (1) people will be able to do their jobs more effectively, resulting in happier employees and (2) companies will allocate their resources more efficiently, resulting in happier customers and higher enterprise value.
 
 ---
 
@@ -72,6 +72,7 @@ If you know of an interesting opportunity that may be a fit for my strengths, pl
 - **Organizational performance improvement** — intentionally designing the combination of people, process, and technology to improve collaboration and achieve strategic goals.
 - **Writing** — clear writing leads to clear thinking.
 - **Reading** — I love to learn and I don't just passively consume information; I engage with it in a way so that knowledge is a compounding asset (ask me about my "second brain" setup).
+- **Meditation** — I'm an avid meditator. Over 25K minutes and 516 active days since December 2024.
 
 ---
 
