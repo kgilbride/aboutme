@@ -2,48 +2,67 @@
 title: Kyle Gilbride
 ---
 
-## My mission and vision
+## I wire revenue organizations to win
 
-My mission is to help GTM operators and B2B companies with at least 30 employees and >$30M in revenue connect the dots across finance, GTM operations, and AI deployment, resulting in higher revenue, lower costs, and better customer experience. I do this by (1) clarifying the problems to be solved, (2) creating durable operating systems that drive better performance, and (3) ensuring that people are focused on work that makes the best use of their talents.  
+I help growing B2B companies generate more revenue from the resources they already have by rebuilding how the revenue organization operates.
 
-If my work reaches scale, the world will be different because (1) people will be able to do their jobs more effectively, resulting in happier employees and (2) companies will allocate their resources more efficiently, resulting in happier customers and higher enterprise value.
+My work has been described as **“Palantir for GTM”**: connecting fragmented data, decisions, and workflows so CEOs, CFOs, CROs, and their teams can see the whole commercial system and act with confidence.
+
+I combine financial rigor, strategic revenue operations, and applied AI to connect strategy, people, processes, data, and technology.
+
+The outcome I care about is simple:
+
+- **More motivated employees**
+- **More satisfied customers**
+- **More revenue per employee**
+
+## What I do
+
+I help companies:
+
+1. **See the business clearly**  
+   Build trusted forecasts, planning models, measures, and reporting that give leaders a shared view of performance.
+
+2. **Operate as one revenue organization through alignment, integration, and collaboration**  
+   Align roles, incentives, workflows, systems, and operating rhythms across Sales, Marketing, Customer Success, Finance, and Product.   
+
+3. **Use AI to improve the work**  
+   Build practical AI applications and operating foundations that help people make better decisions and execute more effectively. 
+
+My focus is to create the foundation that allows people and AI agents to work together productively and continuously improve.  
+
+To me, it's not about the technology, it's finding ways to help people thrive at work and in life by actually using the world's best technology to support their own personal mission and vision.
+
+## A different path by design
+
+Many Revenue Operations leaders grew up inside Sales, Operations, CRM administration, etc. I followed a different path.
+
+I have worked across investment banking, private equity, corporate development, corporate strategy, chief of staff roles, product operations, go-to-market strategy, and revenue operations leadership.
+
+I followed a path that moved me closer and closer to tangibly solving ambiguous customer experience and revenue productivity problems for B2B businesses.
+
+That path taught me to move between the boardroom and the workflow: to understand the financial case, design the operating model, build the supporting systems, and help people change how they work.
+
+I have done this across B2B companies ranging from roughly **$40 million to more than $1 billion in revenue**, from emerging revenue teams to global organizations with more than **800 sellers**.
+
+Selected results include:
+
+- Increased sales productivity by **30%**
+- Simplified **27 commission plans into four**
+- Improved forecast accuracy and financial visibility
+- Identified **$3.9 million of inactivated ARR**
+- Built an AI-enabled research application that saved an investor **one to two days per company analyzed**
+- Helped translate major strategic changes into executable operations
 
 ---
 
-## What makes me different
-
-Many Revenue Operations leaders grow up inside Sales Ops or CRM administration. My path was different by design.
-
-Over my career, I've operated across investment banking, private equity, corporate strategy, corporate development, chief of staff roles, and revenue operations leadership. That breadth gives me a wider lens on how businesses actually scale.
-
-I've worked across companies ranging from growth-stage startups to billion-dollar enterprises, spanning healthcare, workflow automation, collaboration software, and education technology. Across every environment, the pattern has been the same: align strategy, systems, people, and execution so growth becomes more predictable and scalable.
-
-What differentiates me is the ability to connect multiple layers of the business simultaneously:
-
-- Executive strategy and board-level thinking
-- GTM process design and operational rigor
-- Data analysis and financial modeling
-- Systems implementation and workflow automation
-- Cross-functional alignment and change management
-- AI-enabled operational leverage
-
-I'm equally comfortable building the business case in Excel, designing the operating model, implementing changes in systems, and leading the organizational adoption required to make the change stick.
-
-I bring both operator depth and pattern recognition from years of exposure to high-performing organizations, including companies backed by Insight Partners and leadership teams from organizations like athenahealth, Automation Anywhere, and Mural.
-
-And when a problem extends beyond my own expertise, I have a deep network of operators, executives, and specialists across my professional and academic ecosystems to draw from.
-
-The result is a style of leadership that is not narrowly functional. It is business-first, systems-oriented, analytical, and execution-focused.
-
----
-
-## How I can help
-
-I bring a blend of operational, technological, strategic, and financial know-how. Most of the problems I'm drawn to don't fit neatly into a single function — and that's exactly where I do my best work.
+## Problems I help solve
 
 Explore the problem areas below or navigate the graph view to see how my strengths connect.
 
-If you know of an interesting opportunity that may be a fit for my strengths, please feel free to drop me a line at kyle@kgilbride.com.
+If you know of an interesting opportunity that may be a fit for my strengths, please feel free to drop me a line at kyle@kgilbride.com. I love to help people whenever I can.  
+
+> Note that the table is missing "AI-Enabled Transformation" - still need to add that in because I've been too busy shipping other things!  But if you're curious to learn what I've been working on, email me at kyle@kgilbride.com.
 
 | Area | What it means | How I solve it |
 |---|---|---|
@@ -60,32 +79,50 @@ If you know of an interesting opportunity that may be a fit for my strengths, pl
 
 ## How I work
 
-- I bring calm, analytical energy to complex and high-pressure situations — I don't panic when things are ambiguous, I get curious and start building the picture.
-- I operate from first principles and do my best to distill timeless mental models into a digital toolbox for addressing complex problems in business and in life.
+I am most useful when the problem is important, ambiguous, and crosses functional boundaries.
+
+- **I start with discovering the real problem.** I ask questions, study the system, and separate symptoms from root causes.
+- **I make complexity visible.** When the map is incomplete, I start building one.
+- **I turn ideas into operating reality.** A strategy matters only when people understand it, systems support it, and the work actually changes.
+- **I bring calm to difficult situations.** I do not panic when things are unclear. I get curious and begin assembling the picture.
+- **I build with people, not around them.** The best operating systems make talented people more effective rather than forcing them to serve the system. I work best when I have an engaged thought-partner. 
 
 ---
+## Ways to work with me
 
-## Interests
+I am exploring an option-rich portfolio career built around the same mission in several forms:
 
-- **Productivity systems** — I'm a practitioner, not just a follower. Building this page is an experiment in demonstrating my knowledge in this area.
-- **Go-to-Market** — connecting the dots between strategy and execution to deliver customer value is where I've focused my career.
-- **Organizational performance improvement** — intentionally designing the combination of people, process, and technology to improve collaboration and achieve strategic goals.
-- **Writing** — clear writing leads to clear thinking.
-- **Reading** — I love to learn and I don't just passively consume information; I engage with it in a way so that knowledge is a compounding asset (ask me about my "second brain" setup).
-- **Meditation** — I'm an avid meditator. Over 25K minutes and 516 active days since December 2024.
+- A full-time leadership role at the intersection of GTM strategy, Revenue Operations, and AI-enabled transformation
+- Focused consulting engagements that diagnose and strengthen a company’s revenue operating system
+- Advisory work with founders, executives, investors, and operators building the next generation of B2B companies and tools
 
----
-
-## Helping others
-
-- I love to help people who may be feeling stuck in their life or career by being open to sharing stories about what's worked for me to forge a path forward.
-- If you see something in what I've shared on this page that sparks your interest, helps you in your career, or reminds you of an interesting opportunity that may be a fit for my strengths, please reach out to kyle@kgilbride.com.
+The format can change. The work remains the same: understand the system, find the friction, and build a better way forward that allows people to live their best life (and have fun while doing it).
 
 ---
+## Beyond the work
 
-## Community & Causes
+Work and life are not separate systems to me. They are parts of the same effort to remain curious, useful, independent, and fully engaged.
 
-- I'm an active member of the **GTM Council**, a community of practice for GTM operators who are leading the change for how AI rewires GTM motions (https://www.gtmcouncil.com/).
-- I'm part of the **Wharton Alumni Career Experts (ACE)** program, providing MBA students career advice (https://mbacareers.wharton.upenn.edu/ace-program/).
-- I volunteer for the **Community Fund of Darien**, providing grants to local community organizations serving people who live in Stamford, Norwalk, and Darien, CT (https://www.communityfunddarien.org/). 
-- I provide business consulting services to New York City area non-profits through **Compass Pro Bono** (https://compassprobono.org/new-york-city/).
+I write because clear writing leads to clear thinking. I read actively and maintain a personal knowledge system so ideas can compound rather than disappear. I have logged more than **25,000 minutes of meditation** since December 2024, which has strengthened my ability to stay calm, pay attention, and respond thoughtfully.
+
+I value adventure, deep conversation, time with friends and family, and helping people who feel stuck find a path forward.
+
+I have been described as having a **“rugged individuality and a spirit of adventure.”** I enjoy entering unfamiliar territory, clarifying ambiguity quickly, building something valuable that helps another person, and having fun with good people along the way.
+
+---
+## Communities and service
+
+I am an active member of:
+
+- **GTM Council**, a community of operators exploring how AI is rewiring go-to-market (https://www.gtmcouncil.com/).
+- **Wharton Alumni Career Experts**, where I advise MBA students (https://mbacareers.wharton.upenn.edu/ace-program/).
+- **The Community Fund of Darien**, supporting organizations serving Darien, Stamford, and Norwalk (https://www.communityfunddarien.org/).
+- **Compass Pro Bono**, providing business consulting support to New York City-area nonprofits (https://compassprobono.org/new-york-city/).
+- **Wharton GMGP**, Wharton MBA 2012 community of practice supporting health, wealth, and happiness.
+
+---
+## Let’s compare notes
+
+I enjoy meeting people who are rethinking how B2B companies operate, building practical AI applications, or tackling difficult organizational problems.
+
+If something here sparks an idea, or you see an opportunity where my experience may be valuable, reach me at **kyle@kgilbride.com**.
