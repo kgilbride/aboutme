@@ -44,7 +44,7 @@ I followed a path that moved me closer and closer to tangibly solving ambiguous 
 
 That path taught me to move between the boardroom and the workflow: to understand the financial case, design the operating model, build the supporting systems, and help people change how they work.
 
-I have done this across B2B companies ranging from roughly **$40 million to more than $1 billion in revenue**, from emerging revenue teams to global organizations with more than **800 sellers**.
+I have done this across B2B companies ranging from **\$40 million to more than $1 billion in revenue**, from emerging revenue teams to global organizations with more than **800 sellers**.
 
 Selected results include:
 
