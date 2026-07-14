@@ -3,6 +3,7 @@ title: Kyle Gilbride
 ---
 
 ## I wire revenue organizations to win
+---
 
 I help growing B2B companies generate more revenue from the resources they already have by rebuilding how the revenue organization operates.
 
@@ -17,7 +18,7 @@ The outcome I care about is simple:
 - **More revenue per employee**
 
 ## What I do
-
+---
 I help companies:
 
 1. **See the business clearly**  
@@ -34,7 +35,7 @@ My focus is to create the foundation that allows people and AI agents to work to
 To me, it's not about the technology, it's finding ways to help people thrive at work and in life by actually using the world's best technology to support their own personal mission and vision.
 
 ## A different path by design
-
+---
 Many Revenue Operations leaders grew up inside Sales, Operations, CRM administration, etc. I followed a different path.
 
 I have worked across investment banking, private equity, corporate development, corporate strategy, chief of staff roles, product operations, go-to-market strategy, and revenue operations leadership.
@@ -54,10 +55,8 @@ Selected results include:
 - Built an AI-enabled research application that saved an investor **one to two days per company analyzed**
 - Helped translate major strategic changes into executable operations
 
----
-
 ## Problems I help solve
-
+---
 Explore the problem areas below or navigate the graph view to see how my strengths connect.
 
 If you know of an interesting opportunity that may be a fit for my strengths, please feel free to drop me a line at kyle@kgilbride.com. I love to help people whenever I can.  
@@ -75,10 +74,8 @@ If you know of an interesting opportunity that may be a fit for my strengths, pl
 | [[Develops-People-and-Teams\|Develops People and Teams]] | The team lacks the capability, structure, or development infrastructure to scale with the business | I hire for capability gaps, build cross-functional teams, and create the development infrastructure that multiplies talent over time |
 | [[Enters New Domains Fast\|Enters New Domains Fast]] | The business is entering a new market, segment, or function and needs someone who can build credibility and context quickly | I become operational in new domains faster than most — with documented playbooks across healthcare, enterprise automation, PLG SaaS, and early-stage environments |
 
----
-
 ## How I work
-
+---
 I am most useful when the problem is important, ambiguous, and crosses functional boundaries.
 
 - **I start with discovering the real problem.** I ask questions, study the system, and separate symptoms from root causes.
@@ -87,9 +84,8 @@ I am most useful when the problem is important, ambiguous, and crosses functiona
 - **I bring calm to difficult situations.** I do not panic when things are unclear. I get curious and begin assembling the picture.
 - **I build with people, not around them.** The best operating systems make talented people more effective rather than forcing them to serve the system. I work best when I have an engaged thought-partner. 
 
----
 ## Ways to work with me
-
+---
 I am exploring an option-rich portfolio career built around the same mission in several forms:
 
 - A full-time leadership role at the intersection of GTM strategy, Revenue Operations, and AI-enabled transformation
@@ -98,9 +94,8 @@ I am exploring an option-rich portfolio career built around the same mission in 
 
 The format can change. The work remains the same: understand the system, find the friction, and build a better way forward that allows people to live their best life (and have fun while doing it).
 
----
 ## Beyond the work
-
+---
 Work and life are not separate systems to me. They are parts of the same effort to remain curious, useful, independent, and fully engaged.
 
 I write because clear writing leads to clear thinking. I read actively and maintain a personal knowledge system so ideas can compound rather than disappear. I have logged more than **25,000 minutes of meditation** since December 2024, which has strengthened my ability to stay calm, pay attention, and respond thoughtfully.
@@ -109,9 +104,8 @@ I value adventure, deep conversation, time with friends and family, and helping 
 
 I have been described as having a **“rugged individuality and a spirit of adventure.”** I enjoy entering unfamiliar territory, clarifying ambiguity quickly, building something valuable that helps another person, and having fun with good people along the way.
 
----
 ## Communities and service
-
+---
 I am an active member of:
 
 - **GTM Council**, a community of operators exploring how AI is rewiring go-to-market (https://www.gtmcouncil.com/).
@@ -120,9 +114,8 @@ I am an active member of:
 - **Compass Pro Bono**, providing business consulting support to New York City-area nonprofits (https://compassprobono.org/new-york-city/).
 - **Wharton GMGP**, Wharton MBA 2012 community of practice supporting health, wealth, and happiness.
 
----
 ## Let’s compare notes
-
+---
 I enjoy meeting people who are rethinking how B2B companies operate, building practical AI applications, or tackling difficult organizational problems.
 
 If something here sparks an idea, or you see an opportunity where my experience may be valuable, reach me at **kyle@kgilbride.com**.
