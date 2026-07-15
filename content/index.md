@@ -7,7 +7,7 @@ title: Kyle Gilbride
 
 I help growing B2B companies generate more revenue from the resources they already have by rebuilding how the revenue organization operates.
 
-My work has been described as **“Palantir for GTM”**: connecting fragmented data, decisions, and workflows so CEOs, CFOs, CROs, and their teams can see the whole commercial system and act with confidence.
+My work has been described as **“Palantir for GTM”**: connecting fragmented data, decisions, and workflows so that CEOs, CFOs, CROs, and their teams can see the whole commercial system and act with greater confidence.
 
 I combine financial rigor, strategic revenue operations, and applied AI to connect strategy, people, processes, data, and technology.
 
@@ -52,16 +52,28 @@ Selected results include:
 - Simplified **27 commission plans into four**
 - Improved forecast accuracy and financial visibility
 - Identified **$3.9 million of inactivated ARR**
-- Built an AI-enabled research application that saved an investor **one to two days per company analyzed**
+- Built an AI-enabled research application that saved an investor **$1,500 - $3,000 per company analyzed**
 - Helped translate major strategic changes into executable operations
 
 ## Problems I help solve
 ---
-Explore the problem areas below or navigate the graph view to see how my strengths connect.
+I’m drawn to hard, messy problems—the kind that sit between finance, strategy, operations, technology, and people, where no single function has the whole map.
 
-If you know of an interesting opportunity that may be a fit for my strengths, please feel free to drop me a line at kyle@kgilbride.com. I love to help people whenever I can.  
+The work below is a record of problems I’ve helped untangle, systems I’ve built, and ideas I’m still testing in the field. Explore the problem areas or open the graph view to see how the different dots connect.
 
-> Note that the table is missing "AI-Enabled Transformation" - still need to add that in because I've been too busy shipping other things!  But if you're curious to learn what I've been working on, email me at kyle@kgilbride.com.
+I work in public because writing sharpens my thinking—and because ideas get stronger when other people challenge, adapt, and build on them. My aim is to leave behind something valuable: a clearer question, a practical tool, or a better path forward. I also want to learn from you too.
+
+If you see an opportunity where my strengths could be useful, drop me a line at kyle@kgilbride.com. I’m always interested in helping thoughtful people tackle worthwhile problems that align with my mission and vision.
+
+One important area is not yet represented in the table: AI-enabled transformation. That work has been moving faster than my ability to document it. Until I catch up, you can follow what I’m learning, building, and sharing here:
+
+- GitHub is my public workshop. It’s where I use my finance, strategic revenue operations, GTM, and AI know-how to build tools, frameworks, and resources that help people solve real problems. https://github.com/kgilbride
+- Making Sense on Substack is where I write long form content to connect the dots across people, systems, technology, and ideas — making complex problems in business and life easier to understand and act on, for myself and others. https://kylemakingsense.substack.com/
+- LinkedIn is where I share the work, exchange perspectives, and connect with people exploring similar problems. https://www.linkedin.com/in/kyle-gilbride/
+
+I want to connect with and help as many people as I can who share a belief in what is possible. My mission and vision are bigger than anything I can accomplish alone, and I hope this work becomes one way we find each other.
+
+If something here resonates or helps you solve a problem, tell me what worked and why. I love feedback, and it helps me become a better person and build more things worth sharing.
 
 | Area | What it means | How I solve it |
 |---|---|---|
@@ -93,6 +105,14 @@ I am exploring an option-rich portfolio career built around the same mission in 
 - Advisory work with founders, executives, investors, and operators building the next generation of B2B companies and tools
 
 The format can change. The work remains the same: understand the system, find the friction, and build a better way forward that allows people to live their best life (and have fun while doing it).
+
+## Published content
+---
+I write to clarify my thinking and help me and others in my communities of practice solve problems in work and in life. 
+
+Please see the following if you'd like to learn more and I invite you to connect or subscribe if you would like to follow me along my journey. 
+
+People don't get anywhere in life with helping other people solve their problems and God knows I'll need all the help I can get.  We're in this race together so let's figure out a way to help each and have fun while doing it!
 
 ## Beyond the work
 ---
