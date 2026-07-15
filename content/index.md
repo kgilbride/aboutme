@@ -5,11 +5,11 @@ title: Kyle Gilbride
 ## I wire revenue organizations to win
 ---
 
-I help growing B2B companies generate more revenue from the resources they already have by rebuilding how the revenue organization operates.
+**I help growing B2B companies generate more revenue from the resources they already have by rebuilding how the revenue organization operates.**
 
-My work has been described as **“Palantir for GTM”**: connecting fragmented data, decisions, and workflows so that CEOs, CFOs, CROs, and their teams can see the whole commercial system and act with greater confidence.
+My work has been described as **“Palantir for GTM”**: connecting fragmented data, decisions, and workflows so that **CEOs, CFOs, CROs, and their teams** can see the whole commercial system and act with greater confidence.
 
-I combine financial rigor, strategic revenue operations, and applied AI to connect strategy, people, processes, data, and technology.
+I combine **financial rigor, strategic revenue operations, and applied AI** to connect strategy, people, processes, data, and technology.
 
 The outcome I care about is simple:
 
@@ -32,7 +32,7 @@ I help companies:
 
 My focus is to create the foundation that allows people and AI agents to work together productively and continuously improve.  
 
-To me, it's not about the technology, it's finding ways to help people thrive at work and in life by actually using the world's best technology to support their own personal mission and vision.
+**Technology is not the point. The point is helping people thrive at work and in life by putting the world’s best tools in service of their own mission, while connecting their work to a company mission they believe in.**
 
 ## A different path by design
 ---
@@ -65,7 +65,7 @@ I work in public because writing sharpens my thinking—and because ideas get st
 
 If you see an opportunity where my strengths could be useful, drop me a line at kyle@kgilbride.com. I’m always interested in helping thoughtful people tackle worthwhile problems that align with my mission and vision.
 
-One important area is not yet represented in the table: AI-enabled transformation. That work has been moving faster than my ability to document it. Until I catch up, you can follow what I’m learning, building, and sharing here:
+One important area is not yet represented in the table: **AI-enabled transformation.** That work has been moving faster than my ability to document it. Until I catch up, you can follow what I’m learning, building, and sharing here:
 
 - GitHub is my public workshop. It’s where I use my finance, strategic revenue operations, GTM, and AI know-how to build tools, frameworks, and resources that help people solve real problems. https://github.com/kgilbride
 - Making Sense on Substack is where I write long form content to connect the dots across people, systems, technology, and ideas — making complex problems in business and life easier to understand and act on, for myself and others. https://kylemakingsense.substack.com/
