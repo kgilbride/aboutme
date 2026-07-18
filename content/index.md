@@ -2,20 +2,12 @@
 title: Kyle Gilbride
 ---
 
-## I wire revenue organizations to win
+## I help B2B companies generate more revenue by empowering people to be more productive, resulting in more motivated employees, satisfied customers, and higher revenue per person.
 ---
 
-**I help growing B2B companies generate more revenue from the resources they already have by rebuilding how the revenue organization operates.**
+My mission is to empower CEOs, CFOs, CROs, and their teams to see the whole commercial system and agree on what excellent GTM performance looks like in the market. Then I combine finance, strategic revenue operations, and applied AI know-how to empower the leadership team to commit to a plan that employees are motivated and enabled to execute.
 
-My work has been described as **“Palantir for GTM”**: connecting fragmented data, decisions, and workflows so that **CEOs, CFOs, CROs, and their teams** can see the whole commercial system and act with greater confidence.
-
-I combine **financial rigor, strategic revenue operations, and applied AI** to connect strategy, people, processes, data, and technology.
-
-The outcome I care about is simple:
-
-- **More motivated employees**
-- **More satisfied customers**
-- **More revenue per employee**
+If my work reaches scale, people will get paid fairly, 
 
 ## What I do
 ---
@@ -32,7 +24,7 @@ I help companies:
 
 My focus is to create the foundation that allows people and AI agents to work together productively and continuously improve.  
 
-**Technology is not the point. The point is helping people thrive at work and in life by putting the world’s best tools in service of their own mission, while connecting their work to a company mission they believe in.**
+**Technology is not the point. The point is helping people thrive at work and in life by putting the world’s best tools in service of their own mission, while connecting their work to a company vision they believe in.**
 
 ## A different path by design
 ---
