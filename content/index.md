@@ -2,12 +2,10 @@
 title: Kyle Gilbride
 ---
 
-## I help B2B companies generate more revenue by empowering people to be more productive, resulting in more motivated employees, satisfied customers, and higher revenue per person.
+## I help B2B companies generate more revenue by empowering people to be more productive
 ---
 
-My mission is to empower CEOs, CFOs, CROs, and their teams to see the whole commercial system and agree on what excellent GTM performance looks like in the market. Then I combine finance, strategic revenue operations, and applied AI know-how to empower the leadership team to commit to a plan that employees are motivated and enabled to execute.
-
-If my work reaches scale, people will get paid fairly, 
+My mission is to empower CEOs, CFOs, CROs, and their teams to see the whole commercial system and agree on what excellent GTM performance looks like in the market they compete in. Then I combine finance, strategic revenue operations, and applied AI know-how to empower the leadership team to commit to a plan that employees are motivated and enabled to execute.
 
 ## What I do
 ---
@@ -114,7 +112,7 @@ I write because clear writing leads to clear thinking. I read actively and maint
 
 I value adventure, deep conversation, time with friends and family, and helping people who feel stuck find a path forward.
 
-I have been described as having a **“rugged individuality and a spirit of adventure.”** I enjoy entering unfamiliar territory, clarifying ambiguity quickly, building something valuable that helps another person, and having fun with good people along the way.
+I enjoy entering unfamiliar territory, clarifying ambiguity quickly, building something valuable that helps another person, and having fun with good people along the way.
 
 ## Communities and service
 ---
