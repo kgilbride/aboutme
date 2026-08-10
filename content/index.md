@@ -42,7 +42,7 @@ Selected results include:
 - Simplified **27 commission plans into four**
 - Improved forecast accuracy and financial visibility
 - Identified **$3.9 million of inactivated ARR**
-- Built an AI-enabled research application that saved an investor **$1,500 - $3,000 per company analyzed**
+- Built an AI-enabled research application that saved an investor **\$1,500 - $3,000 per company analyzed**
 - Helped translate major strategic changes into executable operations
 
 ## Problems I help solve
@@ -94,25 +94,7 @@ I am exploring an option-rich portfolio career built around the same mission in 
 - Focused consulting engagements that diagnose and strengthen a company’s revenue operating system
 - Advisory work with founders, executives, investors, and operators building the next generation of B2B companies and tools
 
-The format can change. The work remains the same: understand the system, find the friction, and build a better way forward that allows people to live their best life (and have fun while doing it).
-
-## Published content
----
-I write to clarify my thinking and help me and others in my communities of practice solve problems in work and in life. 
-
-Please see the following if you'd like to learn more and I invite you to connect or subscribe if you would like to follow me along my journey. 
-
-People don't get anywhere in life with helping other people solve their problems and God knows I'll need all the help I can get.  We're in this race together so let's figure out a way to help each and have fun while doing it!
-
-## Beyond the work
----
-Work and life are not separate systems to me. They are parts of the same effort to remain curious, useful, independent, and fully engaged.
-
-I write because clear writing leads to clear thinking. I read actively and maintain a personal knowledge system so ideas can compound rather than disappear. I have logged more than **25,000 minutes of meditation** since December 2024, which has strengthened my ability to stay calm, pay attention, and respond thoughtfully.
-
-I value adventure, deep conversation, time with friends and family, and helping people who feel stuck find a path forward.
-
-I enjoy entering unfamiliar territory, clarifying ambiguity quickly, building something valuable that helps another person, and having fun with good people along the way.
+The format can change. The work remains the same: understand the system, find the friction, and build a better way forward that allows people to be more productive (and have fun while doing it).
 
 ## Communities and service
 ---
