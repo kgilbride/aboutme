@@ -5,7 +5,9 @@ title: Kyle Gilbride
 ## I help B2B companies generate more revenue by empowering people to be more productive
 ---
 
-My mission is to empower CEOs, CFOs, CROs, and their teams to see the whole commercial system and agree on what excellent GTM performance looks like in the market they compete in. Then I combine finance, strategic revenue operations, and applied AI know-how to empower the leadership team to commit to a plan that employees are motivated and enabled to execute.
+My mission is to help revenue organizations create more growth from their existing people and resources.  It’s about helping people do their best work, connect more effectively, and build an exceptional revenue organization.
+
+If my work reaches scale, the world will be different because (1) people will be able to do their jobs more effectively, resulting in happier employees and (2) companies will allocate their resources more efficiently, resulting in more satisfied customers and increased enterprise value.
 
 ## What I do
 ---
@@ -26,15 +28,13 @@ My focus is to create the foundation that allows people and AI agents to work to
 
 ## A different path by design
 ---
-Many Revenue Operations leaders grew up inside Sales, Operations, CRM administration, etc. I followed a different path.
+I’m a 4x Revenue Operations leader in various capacities, spanning companies ranging from $40 million to over $1 billion in revenue and supporting sales organizations ranging from 20 nationally to more than 800 globally.
 
 I have worked across investment banking, private equity, corporate development, corporate strategy, chief of staff roles, product operations, go-to-market strategy, and revenue operations leadership.
 
 I followed a path that moved me closer and closer to tangibly solving ambiguous customer experience and revenue productivity problems for B2B businesses.
 
 That path taught me to move between the boardroom and the workflow: to understand the financial case, design the operating model, build the supporting systems, and help people change how they work.
-
-I have done this across B2B companies ranging from **\$40 million to more than $1 billion in revenue**, from emerging revenue teams to global organizations with more than **800 sellers**.
 
 Selected results include:
 
