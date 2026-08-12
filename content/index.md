@@ -28,7 +28,7 @@ My focus is to create the foundation that allows people and AI agents to work to
 
 ## A different path by design
 ---
-I’m a 4x Revenue Operations leader in various capacities, spanning companies ranging from $40 million to over $1 billion in revenue and supporting sales organizations ranging from 20 nationally to more than 800 globally.
+I’m a 4x Revenue Operations leader in various capacities, spanning companies ranging from \$40 million to over \$1 billion in revenue and supporting sales organizations ranging from 20 nationally to more than 800 globally.
 
 I have worked across investment banking, private equity, corporate development, corporate strategy, chief of staff roles, product operations, go-to-market strategy, and revenue operations leadership.
 
